@@ -1,0 +1,5 @@
+Bus AC: 700
+Bus Non AC: 600
+Train Sleeper: 600
+Train First AC: 800
+Train Second AC: 1000
